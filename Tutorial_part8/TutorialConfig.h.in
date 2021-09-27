@@ -1,0 +1,8 @@
+#ifndef _TUTORIALCONFIG_H_
+#define _TUTORIALCONFIG_H_
+// the configured options and settings for Tutorial
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
+
+#endif // _TUTORIALCONFIG_H_
+
